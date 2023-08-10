@@ -31,4 +31,9 @@ a {
 	text-decoration: none;
 	color: #000;
 }
+texto-alinhado {
+    margin: 5px 5px 5px 5px; /* Define margens automáticas para centralizar o elemento */
+    max-width: 800px; /* Define a largura máxima para o elemento */
+    padding: 30px; /* Adicione um espaçamento interno opcional para melhor legibilidade */
+  }
 		
